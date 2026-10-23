@@ -1,0 +1,502 @@
+{
+  "ingilizce": {
+    "ad": "İngilizce",
+    "sorular": [
+      {
+        "soru": "I ___ from Turkey.",
+        "secenekler": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "She ___ coffee every morning.",
+        "secenekler": [
+          "drink",
+          "drinks",
+          "drinking",
+          "drank"
+        ],
+        "dogru": 1
+      },
+      {
+        "soru": "Yesterday we ___ to the cinema.",
+        "secenekler": [
+          "go",
+          "went",
+          "gone",
+          "going"
+        ],
+        "dogru": 1
+      },
+      {
+        "soru": "If it rains, we ___ at home.",
+        "secenekler": [
+          "stay",
+          "stayed",
+          "will stay",
+          "would stayed"
+        ],
+        "dogru": 2
+      },
+      {
+        "soru": "I have lived here ___ 2022.",
+        "secenekler": [
+          "for",
+          "since",
+          "from",
+          "during"
+        ],
+        "dogru": 1
+      },
+      {
+        "soru": "This book is ___ than the other one.",
+        "secenekler": [
+          "interesting",
+          "more interesting",
+          "most interesting",
+          "interest"
+        ],
+        "dogru": 1
+      },
+      {
+        "soru": "By the time I arrived, they ___.",
+        "secenekler": [
+          "left",
+          "have left",
+          "had left",
+          "leaving"
+        ],
+        "dogru": 2
+      },
+      {
+        "soru": "I wish I ___ more time today.",
+        "secenekler": [
+          "have",
+          "had",
+          "will have",
+          "having"
+        ],
+        "dogru": 1
+      },
+      {
+        "soru": "The proposal, ___ was revised twice, was approved.",
+        "secenekler": [
+          "who",
+          "where",
+          "which",
+          "what"
+        ],
+        "dogru": 2
+      },
+      {
+        "soru": "Had I known earlier, I ___ differently.",
+        "secenekler": [
+          "act",
+          "would act",
+          "would have acted",
+          "acted"
+        ],
+        "dogru": 2
+      },
+      {
+        "soru": "Her explanation was so ___ that even experts reconsidered the issue.",
+        "secenekler": [
+          "nuanced",
+          "basic",
+          "random",
+          "plainly"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "Choose the most natural formal hedge:",
+        "secenekler": [
+          "This is definitely wrong.",
+          "It might be worth considering an alternative interpretation.",
+          "No way this works.",
+          "That thing is bad."
+        ],
+        "dogru": 1
+      }
+    ]
+  },
+  "turkce": {
+    "ad": "Türkçe",
+    "sorular": [
+      {
+        "soru": "Ben İstanbul___ yaşıyorum.",
+        "secenekler": [
+          "-da",
+          "-dan",
+          "-a",
+          "-ı"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "Her sabah kahve ___.",
+        "secenekler": [
+          "içiyorum",
+          "içtim",
+          "içeceğimdir",
+          "içmek"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "Dün arkadaşım___ görüştüm.",
+        "secenekler": [
+          "-la",
+          "-ı",
+          "-dan",
+          "-de"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "Yarın Ankara___ gideceğim.",
+        "secenekler": [
+          "-da",
+          "-ya",
+          "-dan",
+          "-nın"
+        ],
+        "dogru": 1
+      },
+      {
+        "soru": "Bu kitabı iki hafta___ okuyorum.",
+        "secenekler": [
+          "beri",
+          "önce",
+          "sonra",
+          "kadar"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "Eğer vaktim olursa sana ___.",
+        "secenekler": [
+          "uğradım",
+          "uğrarım",
+          "uğruyordum",
+          "uğramış"
+        ],
+        "dogru": 1
+      },
+      {
+        "soru": "Toplantı başlamadan önce raporu ___.",
+        "secenekler": [
+          "bitirmiştim",
+          "bitiriyorum",
+          "bitirecektim mi",
+          "bitmek"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "Bence bu karar yeniden ___.",
+        "secenekler": [
+          "değerlendirilmeli",
+          "değerlendirmek",
+          "değerlendiriyor",
+          "değerlendirdi"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "Ne kadar uğraşsa da sonucu ___.",
+        "secenekler": [
+          "değiştiremedi",
+          "değiştiremiyorlar mı",
+          "değişiklik",
+          "değiştir"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "Açıklamasında bazı noktaları özellikle ___ bıraktı.",
+        "secenekler": [
+          "belirsiz",
+          "belirsizlik",
+          "belirlemek",
+          "belirmiş"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "“Bununla birlikte” en çok hangi işlevde kullanılır?",
+        "secenekler": [
+          "Karşıt/ek bilgi bağlama",
+          "Selamlaşma",
+          "Soru sorma",
+          "Emir verme"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "Akademik üslupta en doğal ifade hangisi?",
+        "secenekler": [
+          "Kesinlikle böyledir.",
+          "Bu bulgu, farklı bir yorum olasılığını da düşündürmektedir.",
+          "Bence çok saçma.",
+          "Aynen öyle işte."
+        ],
+        "dogru": 1
+      }
+    ]
+  },
+  "rusca": {
+    "ad": "Rusça",
+    "sorular": [
+      {
+        "soru": "Я ___ студент.",
+        "secenekler": [
+          "есть",
+          "—",
+          "быть",
+          "это есть"
+        ],
+        "dogru": 1
+      },
+      {
+        "soru": "Она ___ в Москве.",
+        "secenekler": [
+          "живёт",
+          "живу",
+          "живём",
+          "жить"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "Вчера мы ___ фильм.",
+        "secenekler": [
+          "смотрим",
+          "смотрели",
+          "смотреть",
+          "посмотрит"
+        ],
+        "dogru": 1
+      },
+      {
+        "soru": "Я иду ___ университет.",
+        "secenekler": [
+          "в",
+          "из",
+          "с",
+          "у"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "У меня нет ___.",
+        "secenekler": [
+          "время",
+          "времени",
+          "временем",
+          "временй"
+        ],
+        "dogru": 1
+      },
+      {
+        "soru": "Если будет время, я тебе ___.",
+        "secenekler": [
+          "позвонил",
+          "позвоню",
+          "звонить",
+          "звонил бы вчера"
+        ],
+        "dogru": 1
+      },
+      {
+        "soru": "Когда я пришёл, он уже ___.",
+        "secenekler": [
+          "ушёл",
+          "уходит",
+          "уйдёт",
+          "уходить"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "Я интересуюсь ___.",
+        "secenekler": [
+          "музыка",
+          "музыку",
+          "музыкой",
+          "музыке"
+        ],
+        "dogru": 2
+      },
+      {
+        "soru": "Несмотря на трудности, проект удалось ___.",
+        "secenekler": [
+          "завершить",
+          "завершал",
+          "завершён",
+          "завершая"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "Он говорил так, будто всё заранее ___.",
+        "secenekler": [
+          "знает",
+          "знал",
+          "знать",
+          "узнает"
+        ],
+        "dogru": 1
+      },
+      {
+        "soru": "Выберите более нейтральную формулировку:",
+        "secenekler": [
+          "Это полный бред.",
+          "Данное утверждение требует дополнительного обоснования.",
+          "Ну нет.",
+          "Да ладно."
+        ],
+        "dogru": 1
+      },
+      {
+        "soru": "“Вряд ли” обычно выражает:",
+        "secenekler": [
+          "Высокую уверенность",
+          "Сомнение/малую вероятность",
+          "Приказ",
+          "Прошедшее время"
+        ],
+        "dogru": 1
+      }
+    ]
+  },
+  "kazakca": {
+    "ad": "Kazakça",
+    "sorular": [
+      {
+        "soru": "Мен ___ студентпін.",
+        "secenekler": [
+          "бір",
+          "—",
+          "болды",
+          "едің"
+        ],
+        "dogru": 1
+      },
+      {
+        "soru": "Ол Алматыда ___.",
+        "secenekler": [
+          "тұрады",
+          "тұрамын",
+          "тұрасың",
+          "тұру"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "Кеше біз кино ___.",
+        "secenekler": [
+          "көрдік",
+          "көреміз",
+          "көру",
+          "көресің"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "Мен мектеп___ барамын.",
+        "secenekler": [
+          "-те",
+          "-ке",
+          "-тен",
+          "-нің"
+        ],
+        "dogru": 1
+      },
+      {
+        "soru": "Ол кітап___ оқып отыр.",
+        "secenekler": [
+          "-ты",
+          "-қа",
+          "-тан",
+          "-пен"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "Уақытым болса, саған ___.",
+        "secenekler": [
+          "хабарласамын",
+          "хабарластым",
+          "хабарласу",
+          "хабарласқан"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "Мен келгенде, ол кетіп ___.",
+        "secenekler": [
+          "қалды",
+          "болған еді",
+          "барады",
+          "отыр"
+        ],
+        "dogru": 1
+      },
+      {
+        "soru": "Бұл мәселе туралы көп ___.",
+        "secenekler": [
+          "ойландым",
+          "ойлау",
+          "ойланған",
+          "ойлайсың"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "“Дегенмен” сөзі көбіне нені білдіреді?",
+        "secenekler": [
+          "Қарсылық мәнін",
+          "Сұрақты",
+          "Бұйрықты",
+          "Санды"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "Ол ойын өте анық әрі ___ жеткізді.",
+        "secenekler": [
+          "дәл",
+          "дәлдік",
+          "дәлдеу",
+          "дәлден"
+        ],
+        "dogru": 0
+      },
+      {
+        "soru": "Ресми стильге қай сөйлем жақын?",
+        "secenekler": [
+          "Бұл мүлде дұрыс емес.",
+          "Бұл мәселені қосымша қарастыру қажет деп есептейміз.",
+          "Қойшы енді.",
+          "Дәл солай ғой."
+        ],
+        "dogru": 1
+      },
+      {
+        "soru": "“Ықтимал” сөзі нені білдіреді?",
+        "secenekler": [
+          "Мүмкіндік/вероятность",
+          "Тыйым",
+          "Өткен шақ",
+          "Сан"
+        ],
+        "dogru": 0
+      }
+    ]
+  }
+}

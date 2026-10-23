@@ -1,0 +1,3458 @@
+[
+  {
+    "language": "tr",
+    "level": "A1",
+    "order": 1,
+    "unit": "İlk Temas",
+    "title": "Merhaba!",
+    "type": "Konuşma",
+    "mission": "Isınma"
+  },
+  {
+    "language": "tr",
+    "level": "A1",
+    "order": 2,
+    "unit": "İlk Temas",
+    "title": "Benim adım {{name}}.",
+    "type": "Diyalog",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "tr",
+    "level": "A1",
+    "order": 3,
+    "unit": "İlk Temas",
+    "title": "On iki",
+    "type": "Dinleme",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "tr",
+    "level": "A1",
+    "order": 4,
+    "unit": "İlk Temas",
+    "title": "Bu benim ailem.",
+    "type": "Kelime",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "tr",
+    "level": "A1",
+    "order": 5,
+    "unit": "İlk Temas",
+    "title": "İlk Temas · Hızlı Tekrar",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "tr",
+    "level": "A1",
+    "order": 6,
+    "unit": "Günlük İhtiyaçlar",
+    "title": "Her sabah çay içerim.",
+    "type": "Cümle",
+    "mission": "Isınma"
+  },
+  {
+    "language": "tr",
+    "level": "A1",
+    "order": 7,
+    "unit": "Günlük İhtiyaçlar",
+    "title": "Lütfen.",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "tr",
+    "level": "A1",
+    "order": 8,
+    "unit": "Günlük İhtiyaçlar",
+    "title": "Bir şişe su, lütfen.",
+    "type": "Diyalog",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "tr",
+    "level": "A1",
+    "order": 9,
+    "unit": "Günlük İhtiyaçlar",
+    "title": "Görüşürüz!",
+    "type": "Konuşma",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "tr",
+    "level": "A1",
+    "order": 10,
+    "unit": "Günlük İhtiyaçlar",
+    "title": "Günlük İhtiyaçlar · Hızlı Tekrar",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "tr",
+    "level": "A1",
+    "order": 11,
+    "unit": "Şehirde İlk Gün",
+    "title": "Bir kahve istiyorum.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "tr",
+    "level": "A1",
+    "order": 12,
+    "unit": "Şehirde İlk Gün",
+    "title": "Bu kaç lira?",
+    "type": "Kelime",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "tr",
+    "level": "A1",
+    "order": 13,
+    "unit": "Şehirde İlk Gün",
+    "title": "Tuvalet nerede?",
+    "type": "Dinleme",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "tr",
+    "level": "A1",
+    "order": 14,
+    "unit": "Şehirde İlk Gün",
+    "title": "Saat kaç?",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "tr",
+    "level": "A1",
+    "order": 15,
+    "unit": "Şehirde İlk Gün",
+    "title": "Şehirde İlk Gün · Hızlı Tekrar",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "tr",
+    "level": "A1",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "A1 · Büyük Final",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "tr",
+    "level": "A2",
+    "order": 1,
+    "unit": "Şehir ve Zaman",
+    "title": "Bu ne kadar?",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "tr",
+    "level": "A2",
+    "order": 2,
+    "unit": "Şehir ve Zaman",
+    "title": "İstasyon nerede?",
+    "type": "Dinleme",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "tr",
+    "level": "A2",
+    "order": 3,
+    "unit": "Şehir ve Zaman",
+    "title": "Toplantı saat üçte.",
+    "type": "Cümle",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "tr",
+    "level": "A2",
+    "order": 4,
+    "unit": "Şehir ve Zaman",
+    "title": "Dün arkadaşımı gördüm.",
+    "type": "Gramer",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "tr",
+    "level": "A2",
+    "order": 5,
+    "unit": "Şehir ve Zaman",
+    "title": "Şehir ve Zaman · Hızlı Tekrar",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "tr",
+    "level": "A2",
+    "order": 6,
+    "unit": "Seyahat ve Hizmetler",
+    "title": "Bir oda ayırtmak istiyorum.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "tr",
+    "level": "A2",
+    "order": 7,
+    "unit": "Seyahat ve Hizmetler",
+    "title": "Menüyü alabilir miyim?",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "tr",
+    "level": "A2",
+    "order": 8,
+    "unit": "Seyahat ve Hizmetler",
+    "title": "Bir doktora ihtiyacım var.",
+    "type": "Kelime",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "tr",
+    "level": "A2",
+    "order": 9,
+    "unit": "Seyahat ve Hizmetler",
+    "title": "Bu otobüs merkeze gidiyor mu?",
+    "type": "Dinleme",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "tr",
+    "level": "A2",
+    "order": 10,
+    "unit": "Seyahat ve Hizmetler",
+    "title": "Seyahat ve Hizmetler · Hızlı Tekrar",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "tr",
+    "level": "A2",
+    "order": 11,
+    "unit": "Sosyal Hayat ve Sorunlar",
+    "title": "Bugün hava soğuk, montunu al.",
+    "type": "Cümle",
+    "mission": "Isınma"
+  },
+  {
+    "language": "tr",
+    "level": "A2",
+    "order": 12,
+    "unit": "Sosyal Hayat ve Sorunlar",
+    "title": "Bunun daha büyük bedeni var mı?",
+    "type": "Diyalog",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "tr",
+    "level": "A2",
+    "order": 13,
+    "unit": "Sosyal Hayat ve Sorunlar",
+    "title": "Cumartesi bize gelmek ister misin?",
+    "type": "Konuşma",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "tr",
+    "level": "A2",
+    "order": 14,
+    "unit": "Sosyal Hayat ve Sorunlar",
+    "title": "Çantamı otobüste unuttum.",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "tr",
+    "level": "A2",
+    "order": 15,
+    "unit": "Sosyal Hayat ve Sorunlar",
+    "title": "Sosyal Hayat ve Sorunlar · Hızlı Tekrar",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "tr",
+    "level": "A2",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "A2 · Büyük Final",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "tr",
+    "level": "B1",
+    "order": 1,
+    "unit": "Deneyimlerini Anlat",
+    "title": "Üç yıldır burada çalışıyorum.",
+    "type": "Cümle",
+    "mission": "Isınma"
+  },
+  {
+    "language": "tr",
+    "level": "B1",
+    "order": 2,
+    "unit": "Deneyimlerini Anlat",
+    "title": "Yüksek lisans yapmak istiyorum.",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "tr",
+    "level": "B1",
+    "order": 3,
+    "unit": "Deneyimlerini Anlat",
+    "title": "Bence bu iyi bir fikir.",
+    "type": "Diyalog",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "tr",
+    "level": "B1",
+    "order": 4,
+    "unit": "Deneyimlerini Anlat",
+    "title": "Önce eve gittim, sonra onu aradım.",
+    "type": "Gramer",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "tr",
+    "level": "B1",
+    "order": 5,
+    "unit": "Deneyimlerini Anlat",
+    "title": "Deneyimlerini Anlat · Hızlı Tekrar",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "tr",
+    "level": "B1",
+    "order": 6,
+    "unit": "Görüş ve Plan",
+    "title": "Sana katılıyorum ama bir sorunumuz var.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "tr",
+    "level": "B1",
+    "order": 7,
+    "unit": "Görüş ve Plan",
+    "title": "Bu hafta sonu arkadaşlarımla buluşmayı planlıyorum.",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "tr",
+    "level": "B1",
+    "order": 8,
+    "unit": "Görüş ve Plan",
+    "title": "Geç kaldım çünkü trafik çok yoğundu.",
+    "type": "Gramer",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "tr",
+    "level": "B1",
+    "order": 9,
+    "unit": "Görüş ve Plan",
+    "title": "Bence önce seçenekleri karşılaştırmalıyız.",
+    "type": "Cümle",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "tr",
+    "level": "B1",
+    "order": 10,
+    "unit": "Görüş ve Plan",
+    "title": "Görüş ve Plan · Hızlı Tekrar",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "tr",
+    "level": "B1",
+    "order": 11,
+    "unit": "Bağımsız İletişim",
+    "title": "Oda beklediğim kadar temiz değildi.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "tr",
+    "level": "B1",
+    "order": 12,
+    "unit": "Bağımsız İletişim",
+    "title": "Yerinde olsam önce randevu alırdım.",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "tr",
+    "level": "B1",
+    "order": 13,
+    "unit": "Bağımsız İletişim",
+    "title": "Haberde şehir merkezine yeni bir hat açılacağı söylendi.",
+    "type": "Dinleme",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "tr",
+    "level": "B1",
+    "order": 14,
+    "unit": "Bağımsız İletişim",
+    "title": "Bu pozisyon için en güçlü yönüm insanlarla etkili iletişim kurabilmem.",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "tr",
+    "level": "B1",
+    "order": 15,
+    "unit": "Bağımsız İletişim",
+    "title": "Bağımsız İletişim · Hızlı Tekrar",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "tr",
+    "level": "B1",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "B1 · Büyük Final",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "tr",
+    "level": "B2",
+    "order": 1,
+    "unit": "Profesyonel İletişim",
+    "title": "Bugün sonuçları üç bölümde sunacağım.",
+    "type": "Konuşma",
+    "mission": "Isınma"
+  },
+  {
+    "language": "tr",
+    "level": "B2",
+    "order": 2,
+    "unit": "Profesyonel İletişim",
+    "title": "Bu yaklaşım daha etkili çünkü zaman kazandırıyor.",
+    "type": "Cümle",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "tr",
+    "level": "B2",
+    "order": 3,
+    "unit": "Profesyonel İletişim",
+    "title": "Habere göre karar gelecek hafta açıklanabilir.",
+    "type": "Dinleme",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "tr",
+    "level": "B2",
+    "order": 4,
+    "unit": "Profesyonel İletişim",
+    "title": "Başvurunun yeniden değerlendirilmesini rica ederim.",
+    "type": "Diyalog",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "tr",
+    "level": "B2",
+    "order": 5,
+    "unit": "Profesyonel İletişim",
+    "title": "Profesyonel İletişim · Hızlı Tekrar",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "tr",
+    "level": "B2",
+    "order": 6,
+    "unit": "Müzakere ve Nüans",
+    "title": "İlki daha ucuzken ikincisi uzun vadede daha güvenilir.",
+    "type": "Gramer",
+    "mission": "Isınma"
+  },
+  {
+    "language": "tr",
+    "level": "B2",
+    "order": 7,
+    "unit": "Müzakere ve Nüans",
+    "title": "Eğer bütçe onaylanırsa projeye gelecek ay başlayabiliriz.",
+    "type": "Cümle",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "tr",
+    "level": "B2",
+    "order": 8,
+    "unit": "Müzakere ve Nüans",
+    "title": "Sonuç olumlu görünse de birkaç risk devam ediyor.",
+    "type": "Konuşma",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "tr",
+    "level": "B2",
+    "order": 9,
+    "unit": "Müzakere ve Nüans",
+    "title": "Ortak bir çözüm bulmak için şartları yeniden değerlendirebiliriz.",
+    "type": "Diyalog",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "tr",
+    "level": "B2",
+    "order": 10,
+    "unit": "Müzakere ve Nüans",
+    "title": "Müzakere ve Nüans · Hızlı Tekrar",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "tr",
+    "level": "B2",
+    "order": 11,
+    "unit": "Analiz ve Karar",
+    "title": "Yanlış anlamadıysam teslim tarihini bir hafta öne alıyoruz.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "tr",
+    "level": "B2",
+    "order": 12,
+    "unit": "Analiz ve Karar",
+    "title": "Veriler, önerinin beklenen etkiyi yaratmadığını gösteriyor.",
+    "type": "Dinleme",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "tr",
+    "level": "B2",
+    "order": 13,
+    "unit": "Analiz ve Karar",
+    "title": "Kaynak güvenilir görünse de yöntemi şeffaf değil.",
+    "type": "Gramer",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "tr",
+    "level": "B2",
+    "order": 14,
+    "unit": "Analiz ve Karar",
+    "title": "Kısa vadeli tasarruf yerine sürdürülebilir çözümü seçmemizi öneriyorum.",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "tr",
+    "level": "B2",
+    "order": 15,
+    "unit": "Analiz ve Karar",
+    "title": "Analiz ve Karar · Hızlı Tekrar",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "tr",
+    "level": "B2",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "B2 · Büyük Final",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "tr",
+    "level": "C1",
+    "order": 1,
+    "unit": "Akademik Akıl Yürütme",
+    "title": "Bu görüş anlaşılır olsa da temel varsayımı tartışmalıdır.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "tr",
+    "level": "C1",
+    "order": 2,
+    "unit": "Akademik Akıl Yürütme",
+    "title": "Bulgular, iki değişken arasında anlamlı bir ilişki olduğunu gösteriyor.",
+    "type": "Cümle",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "tr",
+    "level": "C1",
+    "order": 3,
+    "unit": "Akademik Akıl Yürütme",
+    "title": "Bu karar buzdağının yalnızca görünen kısmı.",
+    "type": "Kelime",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "tr",
+    "level": "C1",
+    "order": 4,
+    "unit": "Akademik Akıl Yürütme",
+    "title": "Veriler açıkça söylemese de eğilim değişmiş görünüyor.",
+    "type": "Dinleme",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "tr",
+    "level": "C1",
+    "order": 5,
+    "unit": "Akademik Akıl Yürütme",
+    "title": "Akademik Akıl Yürütme · Hızlı Tekrar",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "tr",
+    "level": "C1",
+    "order": 6,
+    "unit": "Nüans ve Sentez",
+    "title": "Kaynakları şimdi ayırmak, ileride daha büyük maliyetleri önleyecektir.",
+    "type": "Konuşma",
+    "mission": "Isınma"
+  },
+  {
+    "language": "tr",
+    "level": "C1",
+    "order": 7,
+    "unit": "Nüans ve Sentez",
+    "title": "Kesin bir sonuca varmadan önce daha fazla veriye ihtiyaç var.",
+    "type": "Gramer",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "tr",
+    "level": "C1",
+    "order": 8,
+    "unit": "Nüans ve Sentez",
+    "title": "İki yaklaşım farklı görünse de aynı temel soruna odaklanıyor.",
+    "type": "Cümle",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "tr",
+    "level": "C1",
+    "order": 9,
+    "unit": "Nüans ve Sentez",
+    "title": "Bu değişiklik yalnızca maliyeti değil, kullanıcı davranışını da etkileyebilir.",
+    "type": "Diyalog",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "tr",
+    "level": "C1",
+    "order": 10,
+    "unit": "Nüans ve Sentez",
+    "title": "Nüans ve Sentez · Hızlı Tekrar",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "tr",
+    "level": "C1",
+    "order": 11,
+    "unit": "Profesyonel Derinlik",
+    "title": "Karşı görüş önemli bir noktaya değiniyor; ancak neden-sonuç ilişkisini kanıtlamıyor.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "tr",
+    "level": "C1",
+    "order": 12,
+    "unit": "Profesyonel Derinlik",
+    "title": "Yazarın övgüsü, bağlam içinde açık bir ironiye dönüşüyor.",
+    "type": "Dinleme",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "tr",
+    "level": "C1",
+    "order": 13,
+    "unit": "Profesyonel Derinlik",
+    "title": "İki tarafın da temel kaygısını koruyan bir uzlaşma mümkün görünüyor.",
+    "type": "Konuşma",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "tr",
+    "level": "C1",
+    "order": 14,
+    "unit": "Profesyonel Derinlik",
+    "title": "Özetle, çözüm uygulanabilir; fakat yönetişim mekanizması güçlendirilmelidir.",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "tr",
+    "level": "C1",
+    "order": 15,
+    "unit": "Profesyonel Derinlik",
+    "title": "Profesyonel Derinlik · Hızlı Tekrar",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "tr",
+    "level": "C1",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "C1 · Büyük Final",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "tr",
+    "level": "C2",
+    "order": 1,
+    "unit": "Retorik ve Kültür",
+    "title": "Mesele yalnızca neyi seçtiğimiz değil, neyi feda etmeye hazır olduğumuzdur.",
+    "type": "Konuşma",
+    "mission": "Isınma"
+  },
+  {
+    "language": "tr",
+    "level": "C2",
+    "order": 2,
+    "unit": "Retorik ve Kültür",
+    "title": "Öneri iddialı; ancak uygulama ayrıntıları aynı ölçüde ikna edici değil.",
+    "type": "Diyalog",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "tr",
+    "level": "C2",
+    "order": 3,
+    "unit": "Retorik ve Kültür",
+    "title": "Bu ifade, sözcük anlamından çok ortak kültürel hafızaya dayanır.",
+    "type": "Kelime",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "tr",
+    "level": "C2",
+    "order": 4,
+    "unit": "Retorik ve Kültür",
+    "title": "Mevcut koşullar altında en sağduyulu yol, aşamalı bir geçiş planıdır.",
+    "type": "Cümle",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "tr",
+    "level": "C2",
+    "order": 5,
+    "unit": "Retorik ve Kültür",
+    "title": "Retorik ve Kültür · Hızlı Tekrar",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "tr",
+    "level": "C2",
+    "order": 6,
+    "unit": "Üslup Ustalığı",
+    "title": "Kesinlik arayışı, belirsizliği ortadan kaldırmak yerine onu görünmez kılabilir.",
+    "type": "Gramer",
+    "mission": "Isınma"
+  },
+  {
+    "language": "tr",
+    "level": "C2",
+    "order": 7,
+    "unit": "Üslup Ustalığı",
+    "title": "Aynı düşünce, bağlama göre farklı bir üslupla ifade edilmelidir.",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "tr",
+    "level": "C2",
+    "order": 8,
+    "unit": "Üslup Ustalığı",
+    "title": "Daha fazla seçenek sunmak, karar vermeyi her zaman kolaylaştırmaz.",
+    "type": "Dinleme",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "tr",
+    "level": "C2",
+    "order": 9,
+    "unit": "Üslup Ustalığı",
+    "title": "Kaygınızı anlıyorum; ancak önerilen çözüm uzun vadede daha sürdürülebilir görünüyor.",
+    "type": "Diyalog",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "tr",
+    "level": "C2",
+    "order": 10,
+    "unit": "Üslup Ustalığı",
+    "title": "Üslup Ustalığı · Hızlı Tekrar",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "tr",
+    "level": "C2",
+    "order": 11,
+    "unit": "Düşünce Hassasiyeti",
+    "title": "Bu gönderme, metnin yüzeydeki anlamını tarihsel bir tartışmayla genişletiyor.",
+    "type": "Kelime",
+    "mission": "Isınma"
+  },
+  {
+    "language": "tr",
+    "level": "C2",
+    "order": 12,
+    "unit": "Düşünce Hassasiyeti",
+    "title": "İfade bilinçli olarak belirsiz bırakılmış; her iki yorumu da taşıyor.",
+    "type": "Dinleme",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "tr",
+    "level": "C2",
+    "order": 13,
+    "unit": "Düşünce Hassasiyeti",
+    "title": "Sorunu maliyet olarak değil, dayanıklılık yatırımı olarak yeniden çerçeveleyebiliriz.",
+    "type": "Konuşma",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "tr",
+    "level": "C2",
+    "order": 14,
+    "unit": "Düşünce Hassasiyeti",
+    "title": "Farklı disiplinlerin kavramlarını tek bir açıklama modelinde birleştirmek gerekir.",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "tr",
+    "level": "C2",
+    "order": 15,
+    "unit": "Düşünce Hassasiyeti",
+    "title": "Düşünce Hassasiyeti · Hızlı Tekrar",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "tr",
+    "level": "C2",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "C2 · Büyük Final",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "en",
+    "level": "A1",
+    "order": 1,
+    "unit": "İlk Temas",
+    "title": "Hello!",
+    "type": "Konuşma",
+    "mission": "Isınma"
+  },
+  {
+    "language": "en",
+    "level": "A1",
+    "order": 2,
+    "unit": "İlk Temas",
+    "title": "My name is {{name}}.",
+    "type": "Diyalog",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "en",
+    "level": "A1",
+    "order": 3,
+    "unit": "İlk Temas",
+    "title": "Twelve",
+    "type": "Dinleme",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "en",
+    "level": "A1",
+    "order": 4,
+    "unit": "İlk Temas",
+    "title": "This is my family.",
+    "type": "Kelime",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "en",
+    "level": "A1",
+    "order": 5,
+    "unit": "İlk Temas",
+    "title": "İlk Temas · Quick Challenge",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "en",
+    "level": "A1",
+    "order": 6,
+    "unit": "Günlük İhtiyaçlar",
+    "title": "I drink tea every morning.",
+    "type": "Cümle",
+    "mission": "Isınma"
+  },
+  {
+    "language": "en",
+    "level": "A1",
+    "order": 7,
+    "unit": "Günlük İhtiyaçlar",
+    "title": "Please.",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "en",
+    "level": "A1",
+    "order": 8,
+    "unit": "Günlük İhtiyaçlar",
+    "title": "A bottle of water, please.",
+    "type": "Diyalog",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "en",
+    "level": "A1",
+    "order": 9,
+    "unit": "Günlük İhtiyaçlar",
+    "title": "See you!",
+    "type": "Konuşma",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "en",
+    "level": "A1",
+    "order": 10,
+    "unit": "Günlük İhtiyaçlar",
+    "title": "Günlük İhtiyaçlar · Quick Challenge",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "en",
+    "level": "A1",
+    "order": 11,
+    "unit": "Şehirde İlk Gün",
+    "title": "I would like a coffee.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "en",
+    "level": "A1",
+    "order": 12,
+    "unit": "Şehirde İlk Gün",
+    "title": "How much is this in lira?",
+    "type": "Kelime",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "en",
+    "level": "A1",
+    "order": 13,
+    "unit": "Şehirde İlk Gün",
+    "title": "Where is the restroom?",
+    "type": "Dinleme",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "en",
+    "level": "A1",
+    "order": 14,
+    "unit": "Şehirde İlk Gün",
+    "title": "What time is it?",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "en",
+    "level": "A1",
+    "order": 15,
+    "unit": "Şehirde İlk Gün",
+    "title": "Şehirde İlk Gün · Quick Challenge",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "en",
+    "level": "A1",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "A1 · Final Mission",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "en",
+    "level": "A2",
+    "order": 1,
+    "unit": "Şehir ve Zaman",
+    "title": "How much is this?",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "en",
+    "level": "A2",
+    "order": 2,
+    "unit": "Şehir ve Zaman",
+    "title": "Where is the station?",
+    "type": "Dinleme",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "en",
+    "level": "A2",
+    "order": 3,
+    "unit": "Şehir ve Zaman",
+    "title": "The meeting is at three.",
+    "type": "Cümle",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "en",
+    "level": "A2",
+    "order": 4,
+    "unit": "Şehir ve Zaman",
+    "title": "I saw my friend yesterday.",
+    "type": "Gramer",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "en",
+    "level": "A2",
+    "order": 5,
+    "unit": "Şehir ve Zaman",
+    "title": "Şehir ve Zaman · Quick Challenge",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "en",
+    "level": "A2",
+    "order": 6,
+    "unit": "Seyahat ve Hizmetler",
+    "title": "I would like to book a room.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "en",
+    "level": "A2",
+    "order": 7,
+    "unit": "Seyahat ve Hizmetler",
+    "title": "Could I have the menu?",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "en",
+    "level": "A2",
+    "order": 8,
+    "unit": "Seyahat ve Hizmetler",
+    "title": "I need a doctor.",
+    "type": "Kelime",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "en",
+    "level": "A2",
+    "order": 9,
+    "unit": "Seyahat ve Hizmetler",
+    "title": "Does this bus go to the city center?",
+    "type": "Dinleme",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "en",
+    "level": "A2",
+    "order": 10,
+    "unit": "Seyahat ve Hizmetler",
+    "title": "Seyahat ve Hizmetler · Quick Challenge",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "en",
+    "level": "A2",
+    "order": 11,
+    "unit": "Sosyal Hayat ve Sorunlar",
+    "title": "It is cold today, take your coat.",
+    "type": "Cümle",
+    "mission": "Isınma"
+  },
+  {
+    "language": "en",
+    "level": "A2",
+    "order": 12,
+    "unit": "Sosyal Hayat ve Sorunlar",
+    "title": "Do you have this in a larger size?",
+    "type": "Diyalog",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "en",
+    "level": "A2",
+    "order": 13,
+    "unit": "Sosyal Hayat ve Sorunlar",
+    "title": "Would you like to come over on Saturday?",
+    "type": "Konuşma",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "en",
+    "level": "A2",
+    "order": 14,
+    "unit": "Sosyal Hayat ve Sorunlar",
+    "title": "I left my bag on the bus.",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "en",
+    "level": "A2",
+    "order": 15,
+    "unit": "Sosyal Hayat ve Sorunlar",
+    "title": "Sosyal Hayat ve Sorunlar · Quick Challenge",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "en",
+    "level": "A2",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "A2 · Final Mission",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "en",
+    "level": "B1",
+    "order": 1,
+    "unit": "Deneyimlerini Anlat",
+    "title": "I have worked here for three years.",
+    "type": "Cümle",
+    "mission": "Isınma"
+  },
+  {
+    "language": "en",
+    "level": "B1",
+    "order": 2,
+    "unit": "Deneyimlerini Anlat",
+    "title": "I want to pursue a master’s degree.",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "en",
+    "level": "B1",
+    "order": 3,
+    "unit": "Deneyimlerini Anlat",
+    "title": "I think this is a good idea.",
+    "type": "Diyalog",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "en",
+    "level": "B1",
+    "order": 4,
+    "unit": "Deneyimlerini Anlat",
+    "title": "First I went home, then I called him.",
+    "type": "Gramer",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "en",
+    "level": "B1",
+    "order": 5,
+    "unit": "Deneyimlerini Anlat",
+    "title": "Deneyimlerini Anlat · Quick Challenge",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "en",
+    "level": "B1",
+    "order": 6,
+    "unit": "Görüş ve Plan",
+    "title": "I agree with you, but we have a problem.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "en",
+    "level": "B1",
+    "order": 7,
+    "unit": "Görüş ve Plan",
+    "title": "I am planning to meet my friends this weekend.",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "en",
+    "level": "B1",
+    "order": 8,
+    "unit": "Görüş ve Plan",
+    "title": "I was late because the traffic was very heavy.",
+    "type": "Gramer",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "en",
+    "level": "B1",
+    "order": 9,
+    "unit": "Görüş ve Plan",
+    "title": "I think we should compare the options first.",
+    "type": "Cümle",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "en",
+    "level": "B1",
+    "order": 10,
+    "unit": "Görüş ve Plan",
+    "title": "Görüş ve Plan · Quick Challenge",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "en",
+    "level": "B1",
+    "order": 11,
+    "unit": "Bağımsız İletişim",
+    "title": "The room was not as clean as I expected.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "en",
+    "level": "B1",
+    "order": 12,
+    "unit": "Bağımsız İletişim",
+    "title": "If I were you, I would make an appointment first.",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "en",
+    "level": "B1",
+    "order": 13,
+    "unit": "Bağımsız İletişim",
+    "title": "The news said that a new line would open to the city center.",
+    "type": "Dinleme",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "en",
+    "level": "B1",
+    "order": 14,
+    "unit": "Bağımsız İletişim",
+    "title": "My greatest strength for this position is my ability to communicate effectively with people.",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "en",
+    "level": "B1",
+    "order": 15,
+    "unit": "Bağımsız İletişim",
+    "title": "Bağımsız İletişim · Quick Challenge",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "en",
+    "level": "B1",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "B1 · Final Mission",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "en",
+    "level": "B2",
+    "order": 1,
+    "unit": "Profesyonel İletişim",
+    "title": "Today I will present the results in three parts.",
+    "type": "Konuşma",
+    "mission": "Isınma"
+  },
+  {
+    "language": "en",
+    "level": "B2",
+    "order": 2,
+    "unit": "Profesyonel İletişim",
+    "title": "This approach is more effective because it saves time.",
+    "type": "Cümle",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "en",
+    "level": "B2",
+    "order": 3,
+    "unit": "Profesyonel İletişim",
+    "title": "According to the news, the decision may be announced next week.",
+    "type": "Dinleme",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "en",
+    "level": "B2",
+    "order": 4,
+    "unit": "Profesyonel İletişim",
+    "title": "I kindly request that the application be reconsidered.",
+    "type": "Diyalog",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "en",
+    "level": "B2",
+    "order": 5,
+    "unit": "Profesyonel İletişim",
+    "title": "Profesyonel İletişim · Quick Challenge",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "en",
+    "level": "B2",
+    "order": 6,
+    "unit": "Müzakere ve Nüans",
+    "title": "While the first is cheaper, the second is more reliable in the long term.",
+    "type": "Gramer",
+    "mission": "Isınma"
+  },
+  {
+    "language": "en",
+    "level": "B2",
+    "order": 7,
+    "unit": "Müzakere ve Nüans",
+    "title": "If the budget is approved, we can start the project next month.",
+    "type": "Cümle",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "en",
+    "level": "B2",
+    "order": 8,
+    "unit": "Müzakere ve Nüans",
+    "title": "Although the result looks positive, several risks remain.",
+    "type": "Konuşma",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "en",
+    "level": "B2",
+    "order": 9,
+    "unit": "Müzakere ve Nüans",
+    "title": "We can reconsider the terms to find a common solution.",
+    "type": "Diyalog",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "en",
+    "level": "B2",
+    "order": 10,
+    "unit": "Müzakere ve Nüans",
+    "title": "Müzakere ve Nüans · Quick Challenge",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "en",
+    "level": "B2",
+    "order": 11,
+    "unit": "Analiz ve Karar",
+    "title": "If I understood correctly, we are bringing the deadline forward by one week.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "en",
+    "level": "B2",
+    "order": 12,
+    "unit": "Analiz ve Karar",
+    "title": "The data shows that the proposal did not create the expected impact.",
+    "type": "Dinleme",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "en",
+    "level": "B2",
+    "order": 13,
+    "unit": "Analiz ve Karar",
+    "title": "Although the source appears reliable, its method is not transparent.",
+    "type": "Gramer",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "en",
+    "level": "B2",
+    "order": 14,
+    "unit": "Analiz ve Karar",
+    "title": "I recommend choosing the sustainable solution instead of short-term savings.",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "en",
+    "level": "B2",
+    "order": 15,
+    "unit": "Analiz ve Karar",
+    "title": "Analiz ve Karar · Quick Challenge",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "en",
+    "level": "B2",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "B2 · Final Mission",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "en",
+    "level": "C1",
+    "order": 1,
+    "unit": "Akademik Akıl Yürütme",
+    "title": "Although this view is understandable, its main assumption is debatable.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "en",
+    "level": "C1",
+    "order": 2,
+    "unit": "Akademik Akıl Yürütme",
+    "title": "The findings indicate a significant relationship between the two variables.",
+    "type": "Cümle",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "en",
+    "level": "C1",
+    "order": 3,
+    "unit": "Akademik Akıl Yürütme",
+    "title": "This decision is only the tip of the iceberg.",
+    "type": "Kelime",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "en",
+    "level": "C1",
+    "order": 4,
+    "unit": "Akademik Akıl Yürütme",
+    "title": "Although the data does not say so explicitly, the trend appears to have changed.",
+    "type": "Dinleme",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "en",
+    "level": "C1",
+    "order": 5,
+    "unit": "Akademik Akıl Yürütme",
+    "title": "Akademik Akıl Yürütme · Quick Challenge",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "en",
+    "level": "C1",
+    "order": 6,
+    "unit": "Nüans ve Sentez",
+    "title": "Allocating resources now will prevent greater costs later.",
+    "type": "Konuşma",
+    "mission": "Isınma"
+  },
+  {
+    "language": "en",
+    "level": "C1",
+    "order": 7,
+    "unit": "Nüans ve Sentez",
+    "title": "More data is needed before reaching a definitive conclusion.",
+    "type": "Gramer",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "en",
+    "level": "C1",
+    "order": 8,
+    "unit": "Nüans ve Sentez",
+    "title": "Although the two approaches appear different, they focus on the same underlying problem.",
+    "type": "Cümle",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "en",
+    "level": "C1",
+    "order": 9,
+    "unit": "Nüans ve Sentez",
+    "title": "This change may affect not only cost but also user behavior.",
+    "type": "Diyalog",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "en",
+    "level": "C1",
+    "order": 10,
+    "unit": "Nüans ve Sentez",
+    "title": "Nüans ve Sentez · Quick Challenge",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "en",
+    "level": "C1",
+    "order": 11,
+    "unit": "Profesyonel Derinlik",
+    "title": "The opposing view raises an important point; however, it does not prove causation.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "en",
+    "level": "C1",
+    "order": 12,
+    "unit": "Profesyonel Derinlik",
+    "title": "The author’s praise becomes clear irony within the context.",
+    "type": "Dinleme",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "en",
+    "level": "C1",
+    "order": 13,
+    "unit": "Profesyonel Derinlik",
+    "title": "A compromise that preserves both sides’ main concerns appears possible.",
+    "type": "Konuşma",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "en",
+    "level": "C1",
+    "order": 14,
+    "unit": "Profesyonel Derinlik",
+    "title": "In summary, the solution is feasible, but the governance mechanism should be strengthened.",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "en",
+    "level": "C1",
+    "order": 15,
+    "unit": "Profesyonel Derinlik",
+    "title": "Profesyonel Derinlik · Quick Challenge",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "en",
+    "level": "C1",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "C1 · Final Mission",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "en",
+    "level": "C2",
+    "order": 1,
+    "unit": "Retorik ve Kültür",
+    "title": "The issue is not merely what we choose, but what we are prepared to sacrifice.",
+    "type": "Konuşma",
+    "mission": "Isınma"
+  },
+  {
+    "language": "en",
+    "level": "C2",
+    "order": 2,
+    "unit": "Retorik ve Kültür",
+    "title": "The proposal is ambitious; however, the implementation details are less convincing.",
+    "type": "Diyalog",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "en",
+    "level": "C2",
+    "order": 3,
+    "unit": "Retorik ve Kültür",
+    "title": "This expression relies more on shared cultural memory than on its literal meaning.",
+    "type": "Kelime",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "en",
+    "level": "C2",
+    "order": 4,
+    "unit": "Retorik ve Kültür",
+    "title": "Under the current circumstances, the most prudent course is a phased transition plan.",
+    "type": "Cümle",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "en",
+    "level": "C2",
+    "order": 5,
+    "unit": "Retorik ve Kültür",
+    "title": "Retorik ve Kültür · Quick Challenge",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "en",
+    "level": "C2",
+    "order": 6,
+    "unit": "Üslup Ustalığı",
+    "title": "The pursuit of certainty may conceal uncertainty rather than eliminate it.",
+    "type": "Gramer",
+    "mission": "Isınma"
+  },
+  {
+    "language": "en",
+    "level": "C2",
+    "order": 7,
+    "unit": "Üslup Ustalığı",
+    "title": "The same idea should be expressed in a different register depending on the context.",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "en",
+    "level": "C2",
+    "order": 8,
+    "unit": "Üslup Ustalığı",
+    "title": "Offering more options does not always make decision-making easier.",
+    "type": "Dinleme",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "en",
+    "level": "C2",
+    "order": 9,
+    "unit": "Üslup Ustalığı",
+    "title": "I understand your concern; however, the proposed solution appears more sustainable in the long term.",
+    "type": "Diyalog",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "en",
+    "level": "C2",
+    "order": 10,
+    "unit": "Üslup Ustalığı",
+    "title": "Üslup Ustalığı · Quick Challenge",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "en",
+    "level": "C2",
+    "order": 11,
+    "unit": "Düşünce Hassasiyeti",
+    "title": "This allusion expands the text’s surface meaning through a historical debate.",
+    "type": "Kelime",
+    "mission": "Isınma"
+  },
+  {
+    "language": "en",
+    "level": "C2",
+    "order": 12,
+    "unit": "Düşünce Hassasiyeti",
+    "title": "The statement is deliberately ambiguous; it supports both interpretations.",
+    "type": "Dinleme",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "en",
+    "level": "C2",
+    "order": 13,
+    "unit": "Düşünce Hassasiyeti",
+    "title": "We can reframe the issue not as a cost, but as an investment in resilience.",
+    "type": "Konuşma",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "en",
+    "level": "C2",
+    "order": 14,
+    "unit": "Düşünce Hassasiyeti",
+    "title": "Concepts from different disciplines must be integrated into a single explanatory model.",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "en",
+    "level": "C2",
+    "order": 15,
+    "unit": "Düşünce Hassasiyeti",
+    "title": "Düşünce Hassasiyeti · Quick Challenge",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "en",
+    "level": "C2",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "C2 · Final Mission",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "ru",
+    "level": "A1",
+    "order": 1,
+    "unit": "İlk Temas",
+    "title": "Привет!",
+    "type": "Konuşma",
+    "mission": "Isınma"
+  },
+  {
+    "language": "ru",
+    "level": "A1",
+    "order": 2,
+    "unit": "İlk Temas",
+    "title": "Меня зовут {{name}}.",
+    "type": "Diyalog",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "ru",
+    "level": "A1",
+    "order": 3,
+    "unit": "İlk Temas",
+    "title": "Двенадцать",
+    "type": "Dinleme",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "ru",
+    "level": "A1",
+    "order": 4,
+    "unit": "İlk Temas",
+    "title": "Это моя семья.",
+    "type": "Kelime",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "ru",
+    "level": "A1",
+    "order": 5,
+    "unit": "İlk Temas",
+    "title": "İlk Temas · Быстрый вызов",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "ru",
+    "level": "A1",
+    "order": 6,
+    "unit": "Günlük İhtiyaçlar",
+    "title": "Я пью чай каждое утро.",
+    "type": "Cümle",
+    "mission": "Isınma"
+  },
+  {
+    "language": "ru",
+    "level": "A1",
+    "order": 7,
+    "unit": "Günlük İhtiyaçlar",
+    "title": "Пожалуйста.",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "ru",
+    "level": "A1",
+    "order": 8,
+    "unit": "Günlük İhtiyaçlar",
+    "title": "Бутылку воды, пожалуйста.",
+    "type": "Diyalog",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "ru",
+    "level": "A1",
+    "order": 9,
+    "unit": "Günlük İhtiyaçlar",
+    "title": "До встречи!",
+    "type": "Konuşma",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "ru",
+    "level": "A1",
+    "order": 10,
+    "unit": "Günlük İhtiyaçlar",
+    "title": "Günlük İhtiyaçlar · Быстрый вызов",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "ru",
+    "level": "A1",
+    "order": 11,
+    "unit": "Şehirde İlk Gün",
+    "title": "Я хотел бы кофе.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "ru",
+    "level": "A1",
+    "order": 12,
+    "unit": "Şehirde İlk Gün",
+    "title": "Сколько это стоит в лирах?",
+    "type": "Kelime",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "ru",
+    "level": "A1",
+    "order": 13,
+    "unit": "Şehirde İlk Gün",
+    "title": "Где туалет?",
+    "type": "Dinleme",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "ru",
+    "level": "A1",
+    "order": 14,
+    "unit": "Şehirde İlk Gün",
+    "title": "Который час?",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "ru",
+    "level": "A1",
+    "order": 15,
+    "unit": "Şehirde İlk Gün",
+    "title": "Şehirde İlk Gün · Быстрый вызов",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "ru",
+    "level": "A1",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "A1 · Финальная миссия",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "ru",
+    "level": "A2",
+    "order": 1,
+    "unit": "Şehir ve Zaman",
+    "title": "Сколько это стоит?",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "ru",
+    "level": "A2",
+    "order": 2,
+    "unit": "Şehir ve Zaman",
+    "title": "Где находится вокзал?",
+    "type": "Dinleme",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "ru",
+    "level": "A2",
+    "order": 3,
+    "unit": "Şehir ve Zaman",
+    "title": "Встреча в три часа.",
+    "type": "Cümle",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "ru",
+    "level": "A2",
+    "order": 4,
+    "unit": "Şehir ve Zaman",
+    "title": "Вчера я видел друга.",
+    "type": "Gramer",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "ru",
+    "level": "A2",
+    "order": 5,
+    "unit": "Şehir ve Zaman",
+    "title": "Şehir ve Zaman · Быстрый вызов",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "ru",
+    "level": "A2",
+    "order": 6,
+    "unit": "Seyahat ve Hizmetler",
+    "title": "Я хотел бы забронировать номер.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "ru",
+    "level": "A2",
+    "order": 7,
+    "unit": "Seyahat ve Hizmetler",
+    "title": "Можно мне меню?",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "ru",
+    "level": "A2",
+    "order": 8,
+    "unit": "Seyahat ve Hizmetler",
+    "title": "Мне нужен врач.",
+    "type": "Kelime",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "ru",
+    "level": "A2",
+    "order": 9,
+    "unit": "Seyahat ve Hizmetler",
+    "title": "Этот автобус идёт в центр?",
+    "type": "Dinleme",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "ru",
+    "level": "A2",
+    "order": 10,
+    "unit": "Seyahat ve Hizmetler",
+    "title": "Seyahat ve Hizmetler · Быстрый вызов",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "ru",
+    "level": "A2",
+    "order": 11,
+    "unit": "Sosyal Hayat ve Sorunlar",
+    "title": "Сегодня холодно, возьми пальто.",
+    "type": "Cümle",
+    "mission": "Isınma"
+  },
+  {
+    "language": "ru",
+    "level": "A2",
+    "order": 12,
+    "unit": "Sosyal Hayat ve Sorunlar",
+    "title": "Есть это на размер больше?",
+    "type": "Diyalog",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "ru",
+    "level": "A2",
+    "order": 13,
+    "unit": "Sosyal Hayat ve Sorunlar",
+    "title": "Хочешь прийти к нам в субботу?",
+    "type": "Konuşma",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "ru",
+    "level": "A2",
+    "order": 14,
+    "unit": "Sosyal Hayat ve Sorunlar",
+    "title": "Я оставил сумку в автобусе.",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "ru",
+    "level": "A2",
+    "order": 15,
+    "unit": "Sosyal Hayat ve Sorunlar",
+    "title": "Sosyal Hayat ve Sorunlar · Быстрый вызов",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "ru",
+    "level": "A2",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "A2 · Финальная миссия",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "ru",
+    "level": "B1",
+    "order": 1,
+    "unit": "Deneyimlerini Anlat",
+    "title": "Я работаю здесь уже три года.",
+    "type": "Cümle",
+    "mission": "Isınma"
+  },
+  {
+    "language": "ru",
+    "level": "B1",
+    "order": 2,
+    "unit": "Deneyimlerini Anlat",
+    "title": "Я хочу поступить в магистратуру.",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "ru",
+    "level": "B1",
+    "order": 3,
+    "unit": "Deneyimlerini Anlat",
+    "title": "Я думаю, это хорошая идея.",
+    "type": "Diyalog",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "ru",
+    "level": "B1",
+    "order": 4,
+    "unit": "Deneyimlerini Anlat",
+    "title": "Сначала я пошёл домой, потом позвонил ему.",
+    "type": "Gramer",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "ru",
+    "level": "B1",
+    "order": 5,
+    "unit": "Deneyimlerini Anlat",
+    "title": "Deneyimlerini Anlat · Быстрый вызов",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "ru",
+    "level": "B1",
+    "order": 6,
+    "unit": "Görüş ve Plan",
+    "title": "Я согласен с тобой, но у нас есть проблема.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "ru",
+    "level": "B1",
+    "order": 7,
+    "unit": "Görüş ve Plan",
+    "title": "На этих выходных я планирую встретиться с друзьями.",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "ru",
+    "level": "B1",
+    "order": 8,
+    "unit": "Görüş ve Plan",
+    "title": "Я опоздал, потому что были сильные пробки.",
+    "type": "Gramer",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "ru",
+    "level": "B1",
+    "order": 9,
+    "unit": "Görüş ve Plan",
+    "title": "Я думаю, сначала нам стоит сравнить варианты.",
+    "type": "Cümle",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "ru",
+    "level": "B1",
+    "order": 10,
+    "unit": "Görüş ve Plan",
+    "title": "Görüş ve Plan · Быстрый вызов",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "ru",
+    "level": "B1",
+    "order": 11,
+    "unit": "Bağımsız İletişim",
+    "title": "Номер был не таким чистым, как я ожидал.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "ru",
+    "level": "B1",
+    "order": 12,
+    "unit": "Bağımsız İletişim",
+    "title": "На твоём месте я бы сначала записался на приём.",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "ru",
+    "level": "B1",
+    "order": 13,
+    "unit": "Bağımsız İletişim",
+    "title": "В новостях сообщили, что откроют новую линию до центра города.",
+    "type": "Dinleme",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "ru",
+    "level": "B1",
+    "order": 14,
+    "unit": "Bağımsız İletişim",
+    "title": "Моя сильная сторона для этой должности — умение эффективно общаться с людьми.",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "ru",
+    "level": "B1",
+    "order": 15,
+    "unit": "Bağımsız İletişim",
+    "title": "Bağımsız İletişim · Быстрый вызов",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "ru",
+    "level": "B1",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "B1 · Финальная миссия",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "ru",
+    "level": "B2",
+    "order": 1,
+    "unit": "Profesyonel İletişim",
+    "title": "Сегодня я представлю результаты в трёх частях.",
+    "type": "Konuşma",
+    "mission": "Isınma"
+  },
+  {
+    "language": "ru",
+    "level": "B2",
+    "order": 2,
+    "unit": "Profesyonel İletişim",
+    "title": "Этот подход эффективнее, потому что экономит время.",
+    "type": "Cümle",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "ru",
+    "level": "B2",
+    "order": 3,
+    "unit": "Profesyonel İletişim",
+    "title": "По сообщениям, решение могут объявить на следующей неделе.",
+    "type": "Dinleme",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "ru",
+    "level": "B2",
+    "order": 4,
+    "unit": "Profesyonel İletişim",
+    "title": "Прошу повторно рассмотреть заявление.",
+    "type": "Diyalog",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "ru",
+    "level": "B2",
+    "order": 5,
+    "unit": "Profesyonel İletişim",
+    "title": "Profesyonel İletişim · Быстрый вызов",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "ru",
+    "level": "B2",
+    "order": 6,
+    "unit": "Müzakere ve Nüans",
+    "title": "Первый вариант дешевле, тогда как второй надёжнее в долгосрочной перспективе.",
+    "type": "Gramer",
+    "mission": "Isınma"
+  },
+  {
+    "language": "ru",
+    "level": "B2",
+    "order": 7,
+    "unit": "Müzakere ve Nüans",
+    "title": "Если бюджет утвердят, мы сможем начать проект в следующем месяце.",
+    "type": "Cümle",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "ru",
+    "level": "B2",
+    "order": 8,
+    "unit": "Müzakere ve Nüans",
+    "title": "Хотя результат выглядит положительно, несколько рисков сохраняются.",
+    "type": "Konuşma",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "ru",
+    "level": "B2",
+    "order": 9,
+    "unit": "Müzakere ve Nüans",
+    "title": "Мы можем пересмотреть условия, чтобы найти общее решение.",
+    "type": "Diyalog",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "ru",
+    "level": "B2",
+    "order": 10,
+    "unit": "Müzakere ve Nüans",
+    "title": "Müzakere ve Nüans · Быстрый вызов",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "ru",
+    "level": "B2",
+    "order": 11,
+    "unit": "Analiz ve Karar",
+    "title": "Если я правильно понял, мы переносим крайний срок на неделю вперёд.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "ru",
+    "level": "B2",
+    "order": 12,
+    "unit": "Analiz ve Karar",
+    "title": "Данные показывают, что предложение не дало ожидаемого эффекта.",
+    "type": "Dinleme",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "ru",
+    "level": "B2",
+    "order": 13,
+    "unit": "Analiz ve Karar",
+    "title": "Хотя источник кажется надёжным, его методика непрозрачна.",
+    "type": "Gramer",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "ru",
+    "level": "B2",
+    "order": 14,
+    "unit": "Analiz ve Karar",
+    "title": "Я предлагаю выбрать устойчивое решение вместо краткосрочной экономии.",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "ru",
+    "level": "B2",
+    "order": 15,
+    "unit": "Analiz ve Karar",
+    "title": "Analiz ve Karar · Быстрый вызов",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "ru",
+    "level": "B2",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "B2 · Финальная миссия",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "ru",
+    "level": "C1",
+    "order": 1,
+    "unit": "Akademik Akıl Yürütme",
+    "title": "Хотя эта точка зрения понятна, её основная предпосылка спорна.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "ru",
+    "level": "C1",
+    "order": 2,
+    "unit": "Akademik Akıl Yürütme",
+    "title": "Результаты указывают на значимую связь между двумя переменными.",
+    "type": "Cümle",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "ru",
+    "level": "C1",
+    "order": 3,
+    "unit": "Akademik Akıl Yürütme",
+    "title": "Это решение — лишь вершина айсберга.",
+    "type": "Kelime",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "ru",
+    "level": "C1",
+    "order": 4,
+    "unit": "Akademik Akıl Yürütme",
+    "title": "Хотя данные не говорят об этом прямо, тенденция, похоже, изменилась.",
+    "type": "Dinleme",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "ru",
+    "level": "C1",
+    "order": 5,
+    "unit": "Akademik Akıl Yürütme",
+    "title": "Akademik Akıl Yürütme · Быстрый вызов",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "ru",
+    "level": "C1",
+    "order": 6,
+    "unit": "Nüans ve Sentez",
+    "title": "Выделение ресурсов сейчас предотвратит более серьёзные расходы в будущем.",
+    "type": "Konuşma",
+    "mission": "Isınma"
+  },
+  {
+    "language": "ru",
+    "level": "C1",
+    "order": 7,
+    "unit": "Nüans ve Sentez",
+    "title": "Прежде чем делать окончательный вывод, нужны дополнительные данные.",
+    "type": "Gramer",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "ru",
+    "level": "C1",
+    "order": 8,
+    "unit": "Nüans ve Sentez",
+    "title": "Хотя два подхода кажутся разными, они сосредоточены на одной и той же основной проблеме.",
+    "type": "Cümle",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "ru",
+    "level": "C1",
+    "order": 9,
+    "unit": "Nüans ve Sentez",
+    "title": "Это изменение может повлиять не только на стоимость, но и на поведение пользователей.",
+    "type": "Diyalog",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "ru",
+    "level": "C1",
+    "order": 10,
+    "unit": "Nüans ve Sentez",
+    "title": "Nüans ve Sentez · Быстрый вызов",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "ru",
+    "level": "C1",
+    "order": 11,
+    "unit": "Profesyonel Derinlik",
+    "title": "Противоположная позиция затрагивает важный вопрос, однако не доказывает причинную связь.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "ru",
+    "level": "C1",
+    "order": 12,
+    "unit": "Profesyonel Derinlik",
+    "title": "Похвала автора в контексте превращается в явную иронию.",
+    "type": "Dinleme",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "ru",
+    "level": "C1",
+    "order": 13,
+    "unit": "Profesyonel Derinlik",
+    "title": "Компромисс, учитывающий основные опасения обеих сторон, представляется возможным.",
+    "type": "Konuşma",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "ru",
+    "level": "C1",
+    "order": 14,
+    "unit": "Profesyonel Derinlik",
+    "title": "Итак, решение осуществимо, однако механизм управления следует усилить.",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "ru",
+    "level": "C1",
+    "order": 15,
+    "unit": "Profesyonel Derinlik",
+    "title": "Profesyonel Derinlik · Быстрый вызов",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "ru",
+    "level": "C1",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "C1 · Финальная миссия",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "ru",
+    "level": "C2",
+    "order": 1,
+    "unit": "Retorik ve Kültür",
+    "title": "Вопрос не только в том, что мы выбираем, но и в том, чем готовы пожертвовать.",
+    "type": "Konuşma",
+    "mission": "Isınma"
+  },
+  {
+    "language": "ru",
+    "level": "C2",
+    "order": 2,
+    "unit": "Retorik ve Kültür",
+    "title": "Предложение амбициозно, однако детали реализации менее убедительны.",
+    "type": "Diyalog",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "ru",
+    "level": "C2",
+    "order": 3,
+    "unit": "Retorik ve Kültür",
+    "title": "Это выражение опирается скорее на общую культурную память, чем на буквальный смысл.",
+    "type": "Kelime",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "ru",
+    "level": "C2",
+    "order": 4,
+    "unit": "Retorik ve Kültür",
+    "title": "В нынешних условиях наиболее разумным решением является поэтапный план перехода.",
+    "type": "Cümle",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "ru",
+    "level": "C2",
+    "order": 5,
+    "unit": "Retorik ve Kültür",
+    "title": "Retorik ve Kültür · Быстрый вызов",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "ru",
+    "level": "C2",
+    "order": 6,
+    "unit": "Üslup Ustalığı",
+    "title": "Стремление к определённости может не устранить неопределённость, а лишь скрыть её.",
+    "type": "Gramer",
+    "mission": "Isınma"
+  },
+  {
+    "language": "ru",
+    "level": "C2",
+    "order": 7,
+    "unit": "Üslup Ustalığı",
+    "title": "Одну и ту же мысль следует выражать в разном стиле в зависимости от контекста.",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "ru",
+    "level": "C2",
+    "order": 8,
+    "unit": "Üslup Ustalığı",
+    "title": "Большее количество вариантов не всегда облегчает принятие решения.",
+    "type": "Dinleme",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "ru",
+    "level": "C2",
+    "order": 9,
+    "unit": "Üslup Ustalığı",
+    "title": "Я понимаю вашу обеспокоенность; однако предложенное решение выглядит более устойчивым в долгосрочной перспективе.",
+    "type": "Diyalog",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "ru",
+    "level": "C2",
+    "order": 10,
+    "unit": "Üslup Ustalığı",
+    "title": "Üslup Ustalığı · Быстрый вызов",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "ru",
+    "level": "C2",
+    "order": 11,
+    "unit": "Düşünce Hassasiyeti",
+    "title": "Эта аллюзия расширяет поверхностный смысл текста исторической дискуссией.",
+    "type": "Kelime",
+    "mission": "Isınma"
+  },
+  {
+    "language": "ru",
+    "level": "C2",
+    "order": 12,
+    "unit": "Düşünce Hassasiyeti",
+    "title": "Фраза намеренно оставлена двусмысленной и допускает оба толкования.",
+    "type": "Dinleme",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "ru",
+    "level": "C2",
+    "order": 13,
+    "unit": "Düşünce Hassasiyeti",
+    "title": "Мы можем переосмыслить вопрос не как затраты, а как инвестицию в устойчивость.",
+    "type": "Konuşma",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "ru",
+    "level": "C2",
+    "order": 14,
+    "unit": "Düşünce Hassasiyeti",
+    "title": "Необходимо объединить понятия разных дисциплин в единой объяснительной модели.",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "ru",
+    "level": "C2",
+    "order": 15,
+    "unit": "Düşünce Hassasiyeti",
+    "title": "Düşünce Hassasiyeti · Быстрый вызов",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "ru",
+    "level": "C2",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "C2 · Финальная миссия",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "kz",
+    "level": "A1",
+    "order": 1,
+    "unit": "İlk Temas",
+    "title": "Сәлем!",
+    "type": "Konuşma",
+    "mission": "Isınma"
+  },
+  {
+    "language": "kz",
+    "level": "A1",
+    "order": 2,
+    "unit": "İlk Temas",
+    "title": "Менің атым {{name}}.",
+    "type": "Diyalog",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "kz",
+    "level": "A1",
+    "order": 3,
+    "unit": "İlk Temas",
+    "title": "Он екі",
+    "type": "Dinleme",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "kz",
+    "level": "A1",
+    "order": 4,
+    "unit": "İlk Temas",
+    "title": "Бұл менің отбасым.",
+    "type": "Kelime",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "kz",
+    "level": "A1",
+    "order": 5,
+    "unit": "İlk Temas",
+    "title": "İlk Temas · Жылдам сынақ",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "kz",
+    "level": "A1",
+    "order": 6,
+    "unit": "Günlük İhtiyaçlar",
+    "title": "Мен күнде таңертең шай ішемін.",
+    "type": "Cümle",
+    "mission": "Isınma"
+  },
+  {
+    "language": "kz",
+    "level": "A1",
+    "order": 7,
+    "unit": "Günlük İhtiyaçlar",
+    "title": "Өтінемін.",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "kz",
+    "level": "A1",
+    "order": 8,
+    "unit": "Günlük İhtiyaçlar",
+    "title": "Бір бөтелке су, өтінемін.",
+    "type": "Diyalog",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "kz",
+    "level": "A1",
+    "order": 9,
+    "unit": "Günlük İhtiyaçlar",
+    "title": "Кездескенше!",
+    "type": "Konuşma",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "kz",
+    "level": "A1",
+    "order": 10,
+    "unit": "Günlük İhtiyaçlar",
+    "title": "Günlük İhtiyaçlar · Жылдам сынақ",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "kz",
+    "level": "A1",
+    "order": 11,
+    "unit": "Şehirde İlk Gün",
+    "title": "Мен кофе алғым келеді.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "kz",
+    "level": "A1",
+    "order": 12,
+    "unit": "Şehirde İlk Gün",
+    "title": "Бұл неше лира?",
+    "type": "Kelime",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "kz",
+    "level": "A1",
+    "order": 13,
+    "unit": "Şehirde İlk Gün",
+    "title": "Дәретхана қайда?",
+    "type": "Dinleme",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "kz",
+    "level": "A1",
+    "order": 14,
+    "unit": "Şehirde İlk Gün",
+    "title": "Сағат неше?",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "kz",
+    "level": "A1",
+    "order": 15,
+    "unit": "Şehirde İlk Gün",
+    "title": "Şehirde İlk Gün · Жылдам сынақ",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "kz",
+    "level": "A1",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "A1 · Финалдық миссия",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "kz",
+    "level": "A2",
+    "order": 1,
+    "unit": "Şehir ve Zaman",
+    "title": "Бұл қанша тұрады?",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "kz",
+    "level": "A2",
+    "order": 2,
+    "unit": "Şehir ve Zaman",
+    "title": "Вокзал қайда?",
+    "type": "Dinleme",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "kz",
+    "level": "A2",
+    "order": 3,
+    "unit": "Şehir ve Zaman",
+    "title": "Кездесу сағат үште.",
+    "type": "Cümle",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "kz",
+    "level": "A2",
+    "order": 4,
+    "unit": "Şehir ve Zaman",
+    "title": "Кеше досымды көрдім.",
+    "type": "Gramer",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "kz",
+    "level": "A2",
+    "order": 5,
+    "unit": "Şehir ve Zaman",
+    "title": "Şehir ve Zaman · Жылдам сынақ",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "kz",
+    "level": "A2",
+    "order": 6,
+    "unit": "Seyahat ve Hizmetler",
+    "title": "Мен бөлме брондағым келеді.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "kz",
+    "level": "A2",
+    "order": 7,
+    "unit": "Seyahat ve Hizmetler",
+    "title": "Мәзірді алуға бола ма?",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "kz",
+    "level": "A2",
+    "order": 8,
+    "unit": "Seyahat ve Hizmetler",
+    "title": "Маған дәрігер керек.",
+    "type": "Kelime",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "kz",
+    "level": "A2",
+    "order": 9,
+    "unit": "Seyahat ve Hizmetler",
+    "title": "Бұл автобус қала орталығына бара ма?",
+    "type": "Dinleme",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "kz",
+    "level": "A2",
+    "order": 10,
+    "unit": "Seyahat ve Hizmetler",
+    "title": "Seyahat ve Hizmetler · Жылдам сынақ",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "kz",
+    "level": "A2",
+    "order": 11,
+    "unit": "Sosyal Hayat ve Sorunlar",
+    "title": "Бүгін күн суық, күртеңді ал.",
+    "type": "Cümle",
+    "mission": "Isınma"
+  },
+  {
+    "language": "kz",
+    "level": "A2",
+    "order": 12,
+    "unit": "Sosyal Hayat ve Sorunlar",
+    "title": "Мұның үлкенірек өлшемі бар ма?",
+    "type": "Diyalog",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "kz",
+    "level": "A2",
+    "order": 13,
+    "unit": "Sosyal Hayat ve Sorunlar",
+    "title": "Сенбіде бізге келгің келе ме?",
+    "type": "Konuşma",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "kz",
+    "level": "A2",
+    "order": 14,
+    "unit": "Sosyal Hayat ve Sorunlar",
+    "title": "Сөмкемді автобуста ұмытып кеттім.",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "kz",
+    "level": "A2",
+    "order": 15,
+    "unit": "Sosyal Hayat ve Sorunlar",
+    "title": "Sosyal Hayat ve Sorunlar · Жылдам сынақ",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "kz",
+    "level": "A2",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "A2 · Финалдық миссия",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "kz",
+    "level": "B1",
+    "order": 1,
+    "unit": "Deneyimlerini Anlat",
+    "title": "Мен мұнда үш жылдан бері жұмыс істеймін.",
+    "type": "Cümle",
+    "mission": "Isınma"
+  },
+  {
+    "language": "kz",
+    "level": "B1",
+    "order": 2,
+    "unit": "Deneyimlerini Anlat",
+    "title": "Мен магистратураға түскім келеді.",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "kz",
+    "level": "B1",
+    "order": 3,
+    "unit": "Deneyimlerini Anlat",
+    "title": "Менің ойымша, бұл жақсы идея.",
+    "type": "Diyalog",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "kz",
+    "level": "B1",
+    "order": 4,
+    "unit": "Deneyimlerini Anlat",
+    "title": "Алдымен үйге бардым, содан кейін оған қоңырау шалдым.",
+    "type": "Gramer",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "kz",
+    "level": "B1",
+    "order": 5,
+    "unit": "Deneyimlerini Anlat",
+    "title": "Deneyimlerini Anlat · Жылдам сынақ",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "kz",
+    "level": "B1",
+    "order": 6,
+    "unit": "Görüş ve Plan",
+    "title": "Мен сенімен келісемін, бірақ мәселе бар.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "kz",
+    "level": "B1",
+    "order": 7,
+    "unit": "Görüş ve Plan",
+    "title": "Осы демалыста достарыммен кездесуді жоспарлап отырмын.",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "kz",
+    "level": "B1",
+    "order": 8,
+    "unit": "Görüş ve Plan",
+    "title": "Мен кешіктім, өйткені жолда кептеліс өте қатты болды.",
+    "type": "Gramer",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "kz",
+    "level": "B1",
+    "order": 9,
+    "unit": "Görüş ve Plan",
+    "title": "Менің ойымша, алдымен нұсқаларды салыстыруымыз керек.",
+    "type": "Cümle",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "kz",
+    "level": "B1",
+    "order": 10,
+    "unit": "Görüş ve Plan",
+    "title": "Görüş ve Plan · Жылдам сынақ",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "kz",
+    "level": "B1",
+    "order": 11,
+    "unit": "Bağımsız İletişim",
+    "title": "Бөлме мен күткендей таза болмады.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "kz",
+    "level": "B1",
+    "order": 12,
+    "unit": "Bağımsız İletişim",
+    "title": "Сенің орныңда болсам, алдымен қабылдауға жазылар едім.",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "kz",
+    "level": "B1",
+    "order": 13,
+    "unit": "Bağımsız İletişim",
+    "title": "Жаңалықта қала орталығына жаңа бағыт ашылатыны айтылды.",
+    "type": "Dinleme",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "kz",
+    "level": "B1",
+    "order": 14,
+    "unit": "Bağımsız İletişim",
+    "title": "Бұл қызметке сай ең мықты қырым — адамдармен тиімді тіл табыса білуім.",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "kz",
+    "level": "B1",
+    "order": 15,
+    "unit": "Bağımsız İletişim",
+    "title": "Bağımsız İletişim · Жылдам сынақ",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "kz",
+    "level": "B1",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "B1 · Финалдық миссия",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "kz",
+    "level": "B2",
+    "order": 1,
+    "unit": "Profesyonel İletişim",
+    "title": "Бүгін нәтижелерді үш бөлімде ұсынамын.",
+    "type": "Konuşma",
+    "mission": "Isınma"
+  },
+  {
+    "language": "kz",
+    "level": "B2",
+    "order": 2,
+    "unit": "Profesyonel İletişim",
+    "title": "Бұл тәсіл тиімдірек, себебі уақытты үнемдейді.",
+    "type": "Cümle",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "kz",
+    "level": "B2",
+    "order": 3,
+    "unit": "Profesyonel İletişim",
+    "title": "Хабарға сәйкес, шешім келесі аптада жариялануы мүмкін.",
+    "type": "Dinleme",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "kz",
+    "level": "B2",
+    "order": 4,
+    "unit": "Profesyonel İletişim",
+    "title": "Өтінішті қайта қарауыңызды сұраймын.",
+    "type": "Diyalog",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "kz",
+    "level": "B2",
+    "order": 5,
+    "unit": "Profesyonel İletişim",
+    "title": "Profesyonel İletişim · Жылдам сынақ",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "kz",
+    "level": "B2",
+    "order": 6,
+    "unit": "Müzakere ve Nüans",
+    "title": "Біріншісі арзанырақ, ал екіншісі ұзақ мерзімде сенімдірек.",
+    "type": "Gramer",
+    "mission": "Isınma"
+  },
+  {
+    "language": "kz",
+    "level": "B2",
+    "order": 7,
+    "unit": "Müzakere ve Nüans",
+    "title": "Егер бюджет мақұлданса, жобаны келесі айда бастай аламыз.",
+    "type": "Cümle",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "kz",
+    "level": "B2",
+    "order": 8,
+    "unit": "Müzakere ve Nüans",
+    "title": "Нәтиже оң көрінгенімен, бірнеше тәуекел әлі де бар.",
+    "type": "Konuşma",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "kz",
+    "level": "B2",
+    "order": 9,
+    "unit": "Müzakere ve Nüans",
+    "title": "Ортақ шешім табу үшін шарттарды қайта қарастыра аламыз.",
+    "type": "Diyalog",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "kz",
+    "level": "B2",
+    "order": 10,
+    "unit": "Müzakere ve Nüans",
+    "title": "Müzakere ve Nüans · Жылдам сынақ",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "kz",
+    "level": "B2",
+    "order": 11,
+    "unit": "Analiz ve Karar",
+    "title": "Дұрыс түсінсем, соңғы мерзімді бір апта алға жылжытамыз.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "kz",
+    "level": "B2",
+    "order": 12,
+    "unit": "Analiz ve Karar",
+    "title": "Деректер ұсыныстың күтілген әсер бермегенін көрсетеді.",
+    "type": "Dinleme",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "kz",
+    "level": "B2",
+    "order": 13,
+    "unit": "Analiz ve Karar",
+    "title": "Дереккөз сенімді көрінгенімен, оның әдісі ашық емес.",
+    "type": "Gramer",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "kz",
+    "level": "B2",
+    "order": 14,
+    "unit": "Analiz ve Karar",
+    "title": "Қысқа мерзімді үнемнің орнына тұрақты шешімді таңдауды ұсынамын.",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "kz",
+    "level": "B2",
+    "order": 15,
+    "unit": "Analiz ve Karar",
+    "title": "Analiz ve Karar · Жылдам сынақ",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "kz",
+    "level": "B2",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "B2 · Финалдық миссия",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "kz",
+    "level": "C1",
+    "order": 1,
+    "unit": "Akademik Akıl Yürütme",
+    "title": "Бұл көзқарас түсінікті болғанымен, оның негізгі алғышарты даулы.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "kz",
+    "level": "C1",
+    "order": 2,
+    "unit": "Akademik Akıl Yürütme",
+    "title": "Нәтижелер екі айнымалының арасында елеулі байланыс барын көрсетеді.",
+    "type": "Cümle",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "kz",
+    "level": "C1",
+    "order": 3,
+    "unit": "Akademik Akıl Yürütme",
+    "title": "Бұл шешім — айсбергтің ұшы ғана.",
+    "type": "Kelime",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "kz",
+    "level": "C1",
+    "order": 4,
+    "unit": "Akademik Akıl Yürütme",
+    "title": "Деректер мұны тікелей айтпаса да, үрдіс өзгерген сияқты.",
+    "type": "Dinleme",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "kz",
+    "level": "C1",
+    "order": 5,
+    "unit": "Akademik Akıl Yürütme",
+    "title": "Akademik Akıl Yürütme · Жылдам сынақ",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "kz",
+    "level": "C1",
+    "order": 6,
+    "unit": "Nüans ve Sentez",
+    "title": "Ресурстарды қазір бөлу болашақтағы үлкен шығындардың алдын алады.",
+    "type": "Konuşma",
+    "mission": "Isınma"
+  },
+  {
+    "language": "kz",
+    "level": "C1",
+    "order": 7,
+    "unit": "Nüans ve Sentez",
+    "title": "Нақты қорытындыға келмес бұрын көбірек дерек қажет.",
+    "type": "Gramer",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "kz",
+    "level": "C1",
+    "order": 8,
+    "unit": "Nüans ve Sentez",
+    "title": "Екі тәсіл әртүрлі көрінгенімен, олар бір негізгі мәселеге назар аударады.",
+    "type": "Cümle",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "kz",
+    "level": "C1",
+    "order": 9,
+    "unit": "Nüans ve Sentez",
+    "title": "Бұл өзгеріс тек шығынға емес, пайдаланушы мінез-құлқына да әсер етуі мүмкін.",
+    "type": "Diyalog",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "kz",
+    "level": "C1",
+    "order": 10,
+    "unit": "Nüans ve Sentez",
+    "title": "Nüans ve Sentez · Жылдам сынақ",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "kz",
+    "level": "C1",
+    "order": 11,
+    "unit": "Profesyonel Derinlik",
+    "title": "Қарсы пікір маңызды мәселені көтереді, алайда себеп-салдар байланысын дәлелдемейді.",
+    "type": "Diyalog",
+    "mission": "Isınma"
+  },
+  {
+    "language": "kz",
+    "level": "C1",
+    "order": 12,
+    "unit": "Profesyonel Derinlik",
+    "title": "Автордың мақтауы контекст ішінде анық иронияға айналады.",
+    "type": "Dinleme",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "kz",
+    "level": "C1",
+    "order": 13,
+    "unit": "Profesyonel Derinlik",
+    "title": "Екі тараптың да негізгі алаңын сақтайтын ымыра мүмкін көрінеді.",
+    "type": "Konuşma",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "kz",
+    "level": "C1",
+    "order": 14,
+    "unit": "Profesyonel Derinlik",
+    "title": "Қорытындылай айтқанда, шешім іске асады, бірақ басқару тетігін күшейту қажет.",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "kz",
+    "level": "C1",
+    "order": 15,
+    "unit": "Profesyonel Derinlik",
+    "title": "Profesyonel Derinlik · Жылдам сынақ",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "kz",
+    "level": "C1",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "C1 · Финалдық миссия",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  },
+  {
+    "language": "kz",
+    "level": "C2",
+    "order": 1,
+    "unit": "Retorik ve Kültür",
+    "title": "Мәселе нені таңдағанымызда ғана емес, неден бас тартуға дайын екенімізде.",
+    "type": "Konuşma",
+    "mission": "Isınma"
+  },
+  {
+    "language": "kz",
+    "level": "C2",
+    "order": 2,
+    "unit": "Retorik ve Kültür",
+    "title": "Ұсыныс өршіл, алайда іске асыру егжей-тегжейі соншалықты сенімді емес.",
+    "type": "Diyalog",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "kz",
+    "level": "C2",
+    "order": 3,
+    "unit": "Retorik ve Kültür",
+    "title": "Бұл тіркес тура мағынасынан гөрі ортақ мәдени жадқа сүйенеді.",
+    "type": "Kelime",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "kz",
+    "level": "C2",
+    "order": 4,
+    "unit": "Retorik ve Kültür",
+    "title": "Қазіргі жағдайда ең ұтымды жол — кезең-кезеңімен көшу жоспары.",
+    "type": "Cümle",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "kz",
+    "level": "C2",
+    "order": 5,
+    "unit": "Retorik ve Kültür",
+    "title": "Retorik ve Kültür · Жылдам сынақ",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "kz",
+    "level": "C2",
+    "order": 6,
+    "unit": "Üslup Ustalığı",
+    "title": "Айқындыққа ұмтылу белгісіздікті жоюдың орнына оны жасыруы мүмкін.",
+    "type": "Gramer",
+    "mission": "Isınma"
+  },
+  {
+    "language": "kz",
+    "level": "C2",
+    "order": 7,
+    "unit": "Üslup Ustalığı",
+    "title": "Бір ой контекстке қарай әртүрлі стильде айтылуы тиіс.",
+    "type": "Konuşma",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "kz",
+    "level": "C2",
+    "order": 8,
+    "unit": "Üslup Ustalığı",
+    "title": "Көбірек таңдау ұсыну шешім қабылдауды әрдайым жеңілдетпейді.",
+    "type": "Dinleme",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "kz",
+    "level": "C2",
+    "order": 9,
+    "unit": "Üslup Ustalığı",
+    "title": "Алаңдаушылығыңызды түсінемін; дегенмен ұсынылған шешім ұзақ мерзімде тұрақтырақ көрінеді.",
+    "type": "Diyalog",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "kz",
+    "level": "C2",
+    "order": 10,
+    "unit": "Üslup Ustalığı",
+    "title": "Üslup Ustalığı · Жылдам сынақ",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "kz",
+    "level": "C2",
+    "order": 11,
+    "unit": "Düşünce Hassasiyeti",
+    "title": "Бұл ишара мәтіннің үстірт мағынасын тарихи пікірталас арқылы кеңейтеді.",
+    "type": "Kelime",
+    "mission": "Isınma"
+  },
+  {
+    "language": "kz",
+    "level": "C2",
+    "order": 12,
+    "unit": "Düşünce Hassasiyeti",
+    "title": "Тіркес әдейі екіұшты қалдырылған; ол екі түсіндірмені де көтереді.",
+    "type": "Dinleme",
+    "mission": "Gerçek Hayat"
+  },
+  {
+    "language": "kz",
+    "level": "C2",
+    "order": 13,
+    "unit": "Düşünce Hassasiyeti",
+    "title": "Мәселені шығын емес, орнықтылыққа салынған инвестиция ретінде қайта қарастыра аламыз.",
+    "type": "Konuşma",
+    "mission": "Hız Turu"
+  },
+  {
+    "language": "kz",
+    "level": "C2",
+    "order": 14,
+    "unit": "Düşünce Hassasiyeti",
+    "title": "Әртүрлі салалардың ұғымдарын бір түсіндіру моделіне біріктіру қажет.",
+    "type": "Final",
+    "mission": "Konuşma Görevi"
+  },
+  {
+    "language": "kz",
+    "level": "C2",
+    "order": 15,
+    "unit": "Düşünce Hassasiyeti",
+    "title": "Düşünce Hassasiyeti · Жылдам сынақ",
+    "type": "Checkpoint",
+    "mission": "Ünite meydan okuması"
+  },
+  {
+    "language": "kz",
+    "level": "C2",
+    "order": 16,
+    "unit": "Seviye Finali",
+    "title": "C2 · Финалдық миссия",
+    "type": "Level Boss",
+    "mission": "Seviye finali"
+  }
+]

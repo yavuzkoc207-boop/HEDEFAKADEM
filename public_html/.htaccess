@@ -1,0 +1,57 @@
+Options -Indexes -MultiViews
+DirectoryIndex index.html
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  RewriteRule ^login/?$ /ogrenci-girisi/ [R=301,L,NC]
+  RewriteRule ^dokumantasyon(?:/|$) - [F,L,NC]
+
+  RewriteRule ^app(?:/|$) - [F,L,NC]
+  RewriteRule ^(?:migration|db|drizzle|components|lib|build|examples|scripts|tests)(?:/|$) - [F,L,NC]
+  RewriteRule (^|/)\.(?!well-known(?:/|$)) - [F,L]
+
+  RewriteRule ^api/index\.php$ - [L]
+  RewriteRule ^api(?:/(.*))?$ api/index.php?route=$1 [QSA,L]
+
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+
+  RewriteRule ^ - [R=404,L]
+</IfModule>
+
+<FilesMatch "(?i)^(?:\.env|composer\.(?:json|lock)|package(?:-lock)?\.json|tsconfig\.json|vite\.config\.(?:js|ts)|.*\.(?:sql|sqlite|db|log|bak|map|tsx?))$">
+  Require all denied
+</FilesMatch>
+
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options "DENY"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "camera=(self), microphone=(self), geolocation=()"
+  Header always set Cross-Origin-Opener-Policy "same-origin"
+  Header always set X-HedefAkademi-Release "2026.09.01-seo-growth-all-v1"
+  <FilesMatch "\.(?:html|webmanifest)$">
+    Header set Cache-Control "no-cache, no-store, must-revalidate"
+  </FilesMatch>
+  <FilesMatch "\.(?:js|css|webp|png|woff2)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+  <Files "sw.js">
+    Header set Cache-Control "no-cache, no-store, must-revalidate, max-age=0"
+    Header set Service-Worker-Allowed "/"
+  </Files>
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/css application/javascript application/json image/svg+xml
+</IfModule>
+
+<IfModule mod_brotli.c>
+  AddOutputFilterByType BROTLI_COMPRESS text/html text/plain text/css application/javascript application/json image/svg+xml
+</IfModule>
+<IfModule mod_headers.c>
+  Header append Vary Accept-Encoding
+</IfModule>
+ErrorDocument 404 /404.html

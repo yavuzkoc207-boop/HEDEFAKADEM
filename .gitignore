@@ -1,0 +1,26 @@
+# Sunucuya özel gizli dosyalar — asla commit etmeyin
+public_html/app/config.php
+public_html/app/config.php.tmp
+public_html/app/ai-config.php
+public_html/app/installed.lock
+.env
+.env.*
+!.env.example
+
+# Loglar ve sunucu durumu
+error_log
+*.log
+connection.json
+current.json
+
+# Bağımlılıklar ve derleme çıktıları
+node_modules/
+dist/
+.vite/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

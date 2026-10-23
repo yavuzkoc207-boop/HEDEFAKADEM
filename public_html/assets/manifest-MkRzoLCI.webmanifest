@@ -1,0 +1,12 @@
+{
+  "name": "HedefAkademi",
+  "short_name": "HedefAkademi",
+  "description": "Kendi hesabınızla dinleme, konuşma ve akıllı tekrar odaklı dil öğrenme platformu.",
+  "start_url": "/ogrenci-girisi/",
+  "display": "standalone",
+  "background_color": "#f6f3e9",
+  "theme_color": "#159b89",
+  "icons": [
+    { "src": "/hedef-icon.png", "sizes": "any", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

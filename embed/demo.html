@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HedefAkademi Widget Demo</title>
+  <style>
+    body { margin: 0; padding: 32px 16px; font-family: system-ui, sans-serif; background: #f6f3e9; color: #17354f; }
+    @media (prefers-color-scheme: dark) { body { background: #0d161e; color: #e7f0f6; } }
+    main { max-width: 900px; margin: 0 auto; display: grid; gap: 32px; }
+    code { background: rgba(127, 127, 127, .15); padding: 2px 6px; border-radius: 6px; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>HedefAkademi Widget Demo</h1>
+    <p>Yerel denemek için repo kökünde <code>npx serve .</code> çalıştırıp <code>/embed/demo.html</code> adresini açın.</p>
+
+    <h2>İngilizce seviye testi</h2>
+    <div data-hedef="seviye-testi" data-dil="ingilizce"></div>
+
+    <h2>Rusça seviye testi (koyu tema, özel renk)</h2>
+    <div data-hedef="seviye-testi" data-dil="rusca" data-tema="koyu" data-renk="#7c4dff"></div>
+
+    <h2>Çalışma planı</h2>
+    <div data-hedef="calisma-plani"></div>
+  </main>
+  <script src="hedef-widget.js" defer></script>
+  <script>
+    document.addEventListener('hedef:sonuc', function (e) { console.log('Test sonucu:', e.detail); });
+  </script>
+</body>
+</html>
